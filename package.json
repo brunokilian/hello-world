@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/brunokilian/hello-world/issues"
   },
-  "homepage": "https://github.com/brunokilian/hello-world#readme"
+  "homepage": "https://github.com/brunokilian/hello-world#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
 }
